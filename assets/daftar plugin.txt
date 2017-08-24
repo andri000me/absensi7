@@ -1,0 +1,6 @@
+chosen_v1.7.0 untuk dropdown search
+clockpicker-gh-pages untuk timepicker
+eonasdan-bootstrap-datetimepicker untuk datepicker
+Highcharts-5.0.14 untuk grafik
+DataTables-1.10.15 untuk search sortable tabel
+jQuery.print-master untuk print dari doersguild
